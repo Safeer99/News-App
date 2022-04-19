@@ -12,7 +12,7 @@ import {
 const App = () => {
     const pageSize = 12;
     const country = 'in';
-    const apiKey = process.env.REACT_APP_NEWS_API;
+    const apiKey = 'f085a633458d4cb6b2869319975b1b28';
 
     const [progress, setProgress] = useState(0)
 
